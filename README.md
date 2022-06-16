@@ -6,6 +6,12 @@
 - 🔭 an [Adaptive Lighting](https://github.com/basnijholt/adaptive-lighting) controller for [Home Assistant] next major release with @basnijholt and working on the next major release
 - 🔭 [pacman.store](https://github.com/RubenKelevra/pacman.store) a [Collaborative Cluster](https://collab.ipfscluster.io/) for ArchLinux, Manjaro, EndeavourOS (plus [Chaotic-AUR](https://github.com/chaotic-aur) and [AHLP]()) updates via [IPFS](https://ipfs.io/)
 
+#### IPFS todo list
+
+- [ ] https://github.com/ipfs/ipfs-docs/issues/1176
+- [ ] rename [go-ipfs-git](https://aur.archlinux.org/packages/go-ipfs-git) to kubo-git in AUR
+
+
 #### Current status
 
 - 🌱 I’m currently learning go
