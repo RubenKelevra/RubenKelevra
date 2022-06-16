@@ -20,7 +20,9 @@
 
 #### 📫 Feel free to reach out to me:
 [Twitter](https://twitter.com/RubenKelevra)
+
 [Mastodon](https://mastodon.social/@RubenKelevra) (inactive)
+
 ⬅️ E-Mail
 
 #### Sponsoring
