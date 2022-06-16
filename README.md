@@ -8,11 +8,11 @@
 
 #### IPFS todo list
 
-- [ ] 
+
 - [ ] https://github.com/ipfs/ipfs-docs/issues/1176
 - [ ] rename AUR package [go-ipfs-git](https://aur.archlinux.org/packages/go-ipfs-git) to kubo-git
 - [ ] rename AUR package [ipfs-cluster-bin](https://aur.archlinux.org/packages/) to kubo-cluster?
-- - wait for @lidel's / @hsanjuan's response to the [question](https://github.com/ipfs/go-ipfs/issues/8959#issuecomment-1157312273)
+- wait for @lidel's / @hsanjuan's response to the [question](https://github.com/ipfs/go-ipfs/issues/8959#issuecomment-1157312273)
 
 #### Current status
 
