@@ -4,7 +4,7 @@
 
 - 🔭 a [Better Thermostat](https://github.com/KartoffelToby/better_thermostat/) with [@KartoffelToby](https://github.com/KartoffelToby) for Home Assistant and it's first stable release
 - 🔭 an [Adaptive Lighting](https://github.com/basnijholt/adaptive-lighting) controller for [Home Assistant](https://github.com/home-assistant) next major release with @basnijholt and working on the next major release
-- 🔭 [pacman.store](https://github.com/RubenKelevra/pacman.store) a [Collaborative Cluster](https://collab.ipfscluster.io/) for ArchLinux, Manjaro, EndeavourOS (plus [Chaotic-AUR](https://github.com/chaotic-aur) and [AHLP]()) updates via [IPFS](https://ipfs.io/)
+- 🔭 [pacman.store](https://github.com/RubenKelevra/pacman.store) a [Collaborative Cluster](https://collab.ipfscluster.io/) for ArchLinux, Manjaro, EndeavourOS (plus [Chaotic-AUR](https://github.com/chaotic-aur) and [AHLP](https://somegit.dev/ALHP/ALHP.GO)) updates via [IPFS](https://ipfs.io/)
 
 #### IPFS todo list
 
@@ -21,7 +21,7 @@
 #### 📫 Feel free to reach out to me:
 [Twitter](https://twitter.com/RubenKelevra)
 
-[Mastodon](https://mastodon.social/@RubenKelevra) (inactive)
+[Mastodon](https://mastodon.social/@RubenKelevra)
 
 ⬅️ E-Mail
 
