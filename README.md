@@ -19,7 +19,6 @@
 - 🌱 I’m currently learning go
 
 #### 📫 Feel free to reach out to me:
-[Twitter](https://twitter.com/RubenKelevra)
 
 [Mastodon](https://mastodon.social/@RubenKelevra)
 
