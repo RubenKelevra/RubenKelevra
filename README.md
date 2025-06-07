@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm working on
-
+<!--
 - 🔭 a [Better Thermostat](https://github.com/KartoffelToby/better_thermostat/) with [@KartoffelToby](https://github.com/KartoffelToby) for Home Assistant and it's first stable release
 - 🔭 an [Adaptive Lighting](https://github.com/basnijholt/adaptive-lighting) controller for [Home Assistant](https://github.com/home-assistant) next major release with @basnijholt and working on the next major release
 - 🔭 [pacman.store](https://github.com/RubenKelevra/pacman.store) a [Collaborative Cluster](https://collab.ipfscluster.io/) for ArchLinux, Manjaro, EndeavourOS (plus [Chaotic-AUR](https://github.com/chaotic-aur) and [AHLP](https://somegit.dev/ALHP/ALHP.GO)) updates via [IPFS](https://ipfs.io/)
@@ -13,7 +13,7 @@
 - [ ] rename AUR package [go-ipfs-git](https://aur.archlinux.org/packages/go-ipfs-git) to kubo-git
 - [ ] rename AUR package [ipfs-cluster-bin](https://aur.archlinux.org/packages/) to kubo-cluster?
 - wait for @lidel's / @hsanjuan's response to the [question](https://github.com/ipfs/go-ipfs/issues/8959#issuecomment-1157312273)
-
+-->
 #### Current status
 
 - 🌱 I’m currently learning go
