@@ -16,7 +16,7 @@
 -->
 #### Current status
 
-- 🌱 I’m currently learning go
+- 🌱 Planning what's being seeded this year in my garden
 
 #### 📫 Feel free to reach out to me:
 
