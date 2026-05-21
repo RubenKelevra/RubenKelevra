@@ -16,7 +16,7 @@
 -->
 #### Current status
 
-- 🌱 Planning what's being seeded this year in my garden
+- 🌱 Garden is fully planted 💪 
 
 #### 📫 Feel free to reach out to me:
 
