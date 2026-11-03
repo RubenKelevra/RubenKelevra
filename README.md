@@ -16,7 +16,7 @@
 -->
 #### Current status
 
-- 🌱 Garden is fully planted 💪 
+🍂 Garden harvest nearly completed 💪 
 
 #### 📫 Feel free to reach out to me:
 
